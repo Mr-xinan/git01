@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c296b4bd-630f-4555-b901-ef3f74cbe14b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/itzhou/Demo01.java" afterPath="$PROJECT_DIR$/src/com/itzhou/Demo01.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +17,8 @@
       <file leaf-file-name="Demo01.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/itzhou/Demo01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+            <state relative-caret-position="209">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="e#135#136#0" expanded="true" />
                 <element signature="e#193#194#0" expanded="true" />
@@ -266,12 +264,20 @@
       <updated>1554781543884</updated>
       <workItem from="1554781545302" duration="272000" />
       <workItem from="1554781823436" duration="57000" />
-      <workItem from="1554781916425" duration="393000" />
+      <workItem from="1554781916425" duration="420000" />
     </task>
+    <task id="LOCAL-00001" summary="修改记录">
+      <created>1554782323162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554782323162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="722000" />
+    <option name="totallyTimeSpent" value="749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -313,7 +319,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="修改记录" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改记录" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -344,8 +351,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/itzhou/Demo01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+        <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="e#135#136#0" expanded="true" />
             <element signature="e#193#194#0" expanded="true" />
